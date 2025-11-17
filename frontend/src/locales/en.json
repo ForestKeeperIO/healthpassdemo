@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "onboarding": "Onboarding",
+    "dashboard": "Dashboard",
+    "activity": "Activity",
+    "rewards": "Rewards",
+    "settings": "Settings",
+    "admin": "Admin"
+  },
+  "onboarding": {
+    "title": "Get started with your secure health wallet",
+    "subtitle": "Connect a Midnight wallet, sync your wearable, and start earning privacy-preserving rewards.",
+    "connectWallet": "Choose a wallet",
+    "connectWearable": "Connect wearable",
+    "cta": "Go to dashboard"
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {{name}}",
+    "sync": "Sync & Prove",
+    "syncing": "Generating proof...",
+    "synced": "Proof verified",
+    "claim": "Claim Reward",
+    "claimLocked": "Verify proof to claim",
+    "stats": {
+      "steps": "Steps",
+      "sleep": "Sleep",
+      "readiness": "Readiness"
+    }
+  },
+  "wearables": {
+    "title": "Connect your health data",
+    "googleFit": "Google Fit",
+    "appleHealth": "Apple Health",
+    "fitbit": "Fitbit",
+    "connected": "Connected",
+    "connect": "Connect"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "wallet": "Wallet",
+    "notifications": "Notifications"
+  },
+  "rewards": {
+    "title": "Rewards",
+    "unlocked": "Unlocked",
+    "locked": "Locked"
+  },
+  "activity": {
+    "title": "Daily activity",
+    "noData": "No activity logged yet."
+  },
+  "admin": {
+    "title": "Admin Overview",
+    "participants": "Participants",
+    "proofRate": "Proof success rate",
+    "avgSteps": "Average steps",
+    "avgSleep": "Average sleep"
+  },
+  "toasts": {
+    "proofSuccess": "Proof submitted successfully",
+    "proofFailed": "Proof submission failed",
+    "rewardUnlocked": "New reward unlocked"
+  }
+}

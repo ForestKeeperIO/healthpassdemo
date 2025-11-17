@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #fff;
+  background-color: #0b0f23;
+  font-family: 'SF Pro Display', 'Roboto', system-ui, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
