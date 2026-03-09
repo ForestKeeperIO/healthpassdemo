@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "onboarding": "Inicio",
+    "dashboard": "Panel",
+    "activity": "Actividad",
+    "rewards": "Recompensas",
+    "settings": "Ajustes",
+    "admin": "Admin"
+  },
+  "onboarding": {
+    "title": "Comienza con tu billetera de salud segura",
+    "subtitle": "Conecta una billetera Midnight, sincroniza tu wearable y gana recompensas con privacidad.",
+    "connectWallet": "Elige una billetera",
+    "connectWearable": "Conectar wearable",
+    "cta": "Ir al panel"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo, {{name}}",
+    "sync": "Sincronizar y demostrar",
+    "syncing": "Generando prueba...",
+    "synced": "Prueba verificada",
+    "claim": "Cobrar recompensa",
+    "claimLocked": "Verifica la prueba para cobrar",
+    "stats": {
+      "steps": "Pasos",
+      "sleep": "Sueño",
+      "readiness": "Preparación"
+    }
+  },
+  "wearables": {
+    "title": "Conecta tus datos de salud",
+    "googleFit": "Google Fit",
+    "appleHealth": "Apple Health",
+    "fitbit": "Fitbit",
+    "connected": "Conectado",
+    "connect": "Conectar"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "wallet": "Billetera",
+    "notifications": "Notificaciones"
+  },
+  "rewards": {
+    "title": "Recompensas",
+    "unlocked": "Desbloqueadas",
+    "locked": "Bloqueadas"
+  },
+  "activity": {
+    "title": "Actividad diaria",
+    "noData": "Sin actividad aún."
+  },
+  "admin": {
+    "title": "Resumen administrativo",
+    "participants": "Participantes",
+    "proofRate": "Tasa de éxito de pruebas",
+    "avgSteps": "Promedio de pasos",
+    "avgSleep": "Promedio de sueño"
+  },
+  "toasts": {
+    "proofSuccess": "Prueba enviada con éxito",
+    "proofFailed": "Fallo al enviar la prueba",
+    "rewardUnlocked": "Nueva recompensa desbloqueada"
+  }
+}
